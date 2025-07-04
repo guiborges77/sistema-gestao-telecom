@@ -28,7 +28,7 @@ O projeto contempla CRUDs, dashboards interativos com gráficos, painel de notif
 - **Dashboard Interativo**: Gráficos de pizza e barras com filtros dinâmicos
 - **Sistema de Notificações**: Verificação de vencimentos e alertas via e-mail
 
-### 📧 Sistema de Notificações (Diferencial)
+### 📧 Sistema de Notificações 
 - Verificação automática a cada hora de contratos vencendo nos próximos 5 dias
 - Controle inteligente que evita envios duplicados
 - Painel interativo com histórico, contador de pendentes e envio manual ou em lote
@@ -171,21 +171,6 @@ npm run build
 - Histórico de e-mails enviados
 - Ações de envio individual ou em lote
 
-## 🎨 Design System
-
-### Cores Principais
-- **Primary**: Blue (#3B82F6)
-- **Success**: Emerald (#10B981)
-- **Warning**: Orange (#F59E0B)
-- **Danger**: Red (#EF4444)
-- **Info**: Blue (#3B82F6)
-
-### Componentes UI
-- **Cards**: Containers com sombra e bordas arredondadas
-- **Buttons**: Variantes (primary, secondary, outline, danger)
-- **Inputs**: Campos com validação e ícones
-- **Badges**: Indicadores de status coloridos
-- **Tables**: Responsivas com hover states
 
 ## 🔧 Arquitetura do Código
 
@@ -206,14 +191,6 @@ src/
 ├── types/              # Definições TypeScript
 └── data/               # Dados mock e iniciais
 ```
-
-### Padrões Utilizados
-- **Component Composition**: Componentes reutilizáveis e modulares
-- **Custom Hooks**: Lógica compartilhada (useLocalStorage)
-- **Service Layer**: Separação de responsabilidades
-- **TypeScript**: Tipagem forte para melhor manutenibilidade
-- **Responsive Design**: Mobile-first com Tailwind CSS
-
 ## 📋 Próximos Passos
 
 ### Para Produção
@@ -223,23 +200,3 @@ src/
 4. **E-mail Real**: Integrar com serviço de e-mail
 5. **Deploy**: Configurar CI/CD e hospedagem
 
-### Melhorias Futuras
-- **Relatórios PDF**: Geração de relatórios detalhados
-- **Importação**: Upload de dados via CSV/Excel
-- **Notificações Push**: Alertas em tempo real
-- **Multi-tenancy**: Suporte a múltiplas empresas
-- **API Mobile**: Aplicativo móvel complementar
-
-## 👥 Contribuição
-
-Este projeto foi desenvolvido como teste técnico, demonstrando:
-- **Qualidade de código** com TypeScript e padrões modernos
-- **Arquitetura escalável** com separação clara de responsabilidades
-- **UI/UX profissional** com design system consistente
-- **Funcionalidades completas** atendendo todos os requisitos
-- **Diferencial técnico** com sistema de notificações por e-mail
-
----
-
-**Desenvolvido com ❤️ usando React, TypeScript e Tailwind CSS**#   s i s t e m a - g e s t a o - t e l e c o m  
- 
