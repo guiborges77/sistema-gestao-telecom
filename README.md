@@ -1,17 +1,5 @@
 # 📡 Sistema de Gestão de Telecom
 
-## ✍️ Apresentação
-
-Opa! Me chamo Guilherme, tenho 21 anos e sou desenvolvedor full stack, com mais experiência em React, TypeScript e tecnologias modernas de front-end.
-
-Quero ser bem transparente: ainda não tenho muita vivência com .NET e C#, mas estou super disposto a aprender e me aprofundar nessas tecnologias caso a vaga ou o projeto exijam. Gosto de encarar desafios como esse justamente para sair da zona de conforto e evoluir.
-
-Como tenho mais familiaridade com o ecossistema do React, optei por desenvolver a aplicação com ele, focando no que sei fazer bem feito. Mesmo assim, pensei toda a estrutura do sistema já preparada para uma futura integração com .NET Core e PostgreSQL, seguindo o que foi proposto no desafio.
-
-O que você vai ver aqui é um sistema funcional, bem organizado, com uma interface limpa, boas práticas aplicadas e vontade real de entregar algo sólido, mesmo fora da minha stack principal. Essa é minha forma de mostrar que, mesmo com pouca experiência em algumas ferramentas, estou comprometido com aprendizado constante e com a entrega de valor de verdade.
-##
----
-
 ## 📋 Descrição do Projeto
 
 Sistema completo de gestão de telecomunicações, projetado para empresas que precisam controlar contratos de operadoras, faturas mensais, e notificações automáticas por e-mail sobre vencimentos.  
